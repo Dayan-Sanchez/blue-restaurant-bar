@@ -93,7 +93,7 @@ main .sobre-nosotros{
 }
 
 .imagen-about-us{
-	width: 46%;
+	width: 39%;
 }
 
 .sobre-nosotros .contenido-textos{
@@ -376,3 +376,75 @@ footer{
 
 	}
 }
+
+/*comidas*/
+
+.contenedor-comidas{
+	text-align: left;
+	background: #f2f2f2;
+}
+
+
+
+/*bebidas*/
+
+.contenedor-bebidas{
+	text-align: left;
+	background: #f2f2f2;
+}
+
+
+/* ambiente */
+
+.contenido-ambiente p span{
+	background: #1da4c9;
+	color: #fff;
+	border-radius: 50%;
+	display: inline-block;
+	text-align: center;
+	width: 18px;
+	height: 18px;
+	padding: 0px;
+	box-shadow: 0px 0px 8px 0px rgba(0,0,0, .5);
+	margin-right: 5px;
+}
+
+
+.contenido-ambiente p{
+	padding: 0px 0px 30px 15px;
+	font-weight: 300;
+	text-align: justify;
+}
+
+
+.contenido-otro p span{
+	background: #1da4c9;
+	color: #fff;
+	border-radius: 50%;
+	display: inline-block;
+	text-align: center;
+	width: 18px;
+	height: 18px;
+	padding: 0px;
+	box-shadow: 0px 0px 8px 0px rgba(0,0,0, .5);
+	margin-right: 5px;
+}
+
+
+.contenido-otro p{
+	padding: 0px 0px 30px 15px;
+	font-weight: 300;
+	text-align: justify;
+}
+
+
+.inst, .correo{	
+	color: #fff;
+	padding:0 1%;
+	font-size: 350%;
+	
+}
+
+.flecha{
+	color: #fff;
+	font-size: 500%;
